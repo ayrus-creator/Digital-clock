@@ -25,6 +25,13 @@ While building this project, I learned:
 - How to center elements with CSS Flexbox
 - How to organize HTML, CSS, and JavaScript into separate files
 
+## Future Improvements
+
+- Add a 12-hour and 24-hour format toggle
+- Display the current date
+- Add greetings based on the time
+- Add multiple themes
+
 ## Project Structure
 
 ```text
@@ -34,12 +41,7 @@ digital-clock/
 ├── script.js
 └── README.md
 
-## Future Improvements
 
-- Add a 12-hour and 24-hour format toggle
-- Display the current date
-- Add greetings based on the time
-- Add multiple themes
 
 
 
